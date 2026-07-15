@@ -42,7 +42,7 @@ A modern, responsive landing page designed with a clean user interface, structur
 A personal portfolio website showcasing skills, projects, education, and contact information with a responsive and visually appealing design.
 
 <p align="center">
-  <img src="Portfolio/assets/portfolio-home.png" width="900">
+  <img src="Portfolio/portfolio.png" width="900">
 </p>
 
 ---
@@ -52,7 +52,7 @@ A personal portfolio website showcasing skills, projects, education, and contact
 An interactive web application that converts temperature values between Celsius, Fahrenheit, and Kelvin with real-time calculations.
 
 <p align="center">
-  <img src="Temperature-Converter/assets/temperature-converter.png" width="900">
+  <img src="Temperature-Converter/temperature-converter.png" width="900">
 </p>
 
 ---
