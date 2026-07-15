@@ -32,7 +32,7 @@ The objective of this repository is to demonstrate practical frontend developmen
 A modern, responsive landing page designed with a clean user interface, structured layout, and smooth user experience.
 
 <p align="center">
-  <img src="Landing-Page/assets/landing-page.png" width="900">
+  <img src="Landing-Page/landing-page.png" width="900">
 </p>
 
 ---
