@@ -32,7 +32,7 @@ The objective of this repository is to demonstrate practical frontend developmen
 A modern, responsive landing page designed with a clean user interface, structured layout, and smooth user experience.
 
 <p align="center">
-  <img src="Landing-Page/landing-page.png" width="900">
+  <img src="WebDev-Task1-Landing-Page/landing-page.png" width="900">
 </p>
 
 ---
@@ -42,7 +42,7 @@ A modern, responsive landing page designed with a clean user interface, structur
 A personal portfolio website showcasing skills, projects, education, and contact information with a responsive and visually appealing design.
 
 <p align="center">
-  <img src="Portfolio/portfolio.png" width="900">
+  <img src="WebDev-Task2-Portfolio/portfolio.png" width="900">
 </p>
 
 ---
@@ -52,7 +52,7 @@ A personal portfolio website showcasing skills, projects, education, and contact
 An interactive web application that converts temperature values between Celsius, Fahrenheit, and Kelvin with real-time calculations.
 
 <p align="center">
-  <img src="Temperature-Converter/temperature-converter.png" width="900">
+  <img src="WebDev-Task3-Temperature-Converter/temperature-converter.png" width="900">
 </p>
 
 ---
